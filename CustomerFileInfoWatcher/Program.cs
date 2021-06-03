@@ -20,7 +20,7 @@ namespace CustomerFileInfoWatcher
                 .UseSystemd()
                 .ConfigureServices((hostContext, services) =>
                 {
-                    services.AddHostedService<Worker>();
+                    services.AddHostedService<CustomerFileInfoServiceConfig>();
                 });
     }
 }

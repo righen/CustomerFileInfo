@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <UserSecretsId>dotnet-CustomerFileInfoWatcher-0039584F-0F3A-4903-842A-0B96487DD72B</UserSecretsId>
+    <AssemblyName>CustomerFileInfoService</AssemblyName>
+    <RootNamespace>CustomerFileInfoService</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
